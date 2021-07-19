@@ -8,13 +8,14 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "bisiklet": {
+  "zone": {
     "id": 1, 
     "zone_name": "Test Zone 1", 
     "latitude": 40.71727401, 
     "longitude": -74.00898606, 
     "radius": 25.02, 
     "price": 5.25, 
+    "restricted" : false, 
     "speed_restriction": 120
 }
 }

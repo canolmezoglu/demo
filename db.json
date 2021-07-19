@@ -8,7 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "zone": {
+  "zones": [{
     "id": 1, 
     "zone_name": "Test Zone 1", 
     "latitude": 40.71727401, 
@@ -17,5 +17,5 @@
     "price": 5.25, 
     "restricted" : false, 
     "speed_restriction": 120
-}
+}],
 }

@@ -12,13 +12,13 @@
     "name": "typicode"
   }
   "bisiklet" : {
-    'id': 1, 
-    'zone_name': 'Test Zone 1', 
-    'latitude': 40.71727401, 
-    'longitude': -74.00898606, 
-    'radius': 25.02, 
-    'price': 5.25, 
-    'restricted': False, 
-    'speed_restriction': 120
+    "id": 1, 
+    "zone_name": "Test Zone 1", 
+    "latitude": 40.71727401, 
+    "longitude": -74.00898606, 
+    "radius": 25.02, 
+    "price": 5.25, 
+    "restricted": False, 
+    "speed_restriction": 120
 }
 }

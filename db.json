@@ -1,5 +1,5 @@
 {
-  "zones": [
+  "zones": [{
     "id": 1, 
     "zone_name": "Test Zone 1", 
     "latitude": 40.71727401, 
@@ -8,5 +8,5 @@
     "price": 5.25, 
     "restricted" : false, 
     "speed_restriction": 120
-]
+  }]
 }
